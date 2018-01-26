@@ -362,7 +362,7 @@
 				DEVELOPMENT_TEAM = 4T9YA2N8L6;
 				INFOPLIST_FILE = "$(SRCROOT)/SearchContacts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.messagenet.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobile.searchcontacts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "0e732f1b-08c1-4501-ade1-d9ea87183b7f";
 				PROVISIONING_PROFILE_SPECIFIER = "TestApp Dev";
@@ -380,7 +380,7 @@
 				DEVELOPMENT_TEAM = 4T9YA2N8L6;
 				INFOPLIST_FILE = "$(SRCROOT)/SearchContacts/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = it.messagenet.test;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobile.searchcontacts;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "c9ee6f65-373e-4bbc-b381-bc89986136cd";
 				PROVISIONING_PROFILE_SPECIFIER = TestApp;
